@@ -312,6 +312,7 @@ a {
 .foo-container {
   display: flex;
   gap: 120px;
+  align-items: baseline;
 }
 .footer-text {
   width: 264px;
@@ -324,6 +325,7 @@ a {
 .footer-container {
   display: flex;
   align-items: baseline;
+  gap: 120px;
 }
 
 .social-media {
