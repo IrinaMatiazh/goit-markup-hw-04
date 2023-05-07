@@ -311,6 +311,7 @@ a {
 .web-footer {
   color: var(--color-cloud);
 }
+
 .footer-text {
   width: 264px;
   color: var(--color-cloud);
@@ -319,12 +320,17 @@ a {
   max-width: 264px;
 }
 
+.footer-container {
+    display: flex;
+    align-items: baseline;
+}
+
 .sub-title-footer {
-    font-weight: 500;
+        font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: var(--main-background-color);
+        color: var(--color-white);
         margin-bottom: 16px;
 }
 
