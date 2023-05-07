@@ -596,7 +596,7 @@ ul.icon-card-footer {
 }
 .icon-team-background:hover,
 .icon-team-background:focus {
-  background-color: var(--color-green);
+  background-color: var(--color-ocean);
 }
 .icon-color {
   fill: var(--color-cloud);
