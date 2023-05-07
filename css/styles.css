@@ -610,6 +610,7 @@ ul.icon-card-footer {
 
 .customers-title {
   line-height: 1.1;
+  color: var(--color-navy-blue);
 }
 .customers-list {
   display: flex;
@@ -636,5 +637,5 @@ ul.icon-card-footer {
 }
 .icon-customers-border:hover .customer-icon,
 .icon-customers-border:focus .customer-icon {
-  fill: var(--color-green);
+  fill: var(--color-ocean);
 }
