@@ -639,6 +639,6 @@ ul.icon-card-footer {
 .icon-customers-border:hover,
 .icon-customers-border:focus {
   border-color: var(--color-ocean);
-  background: var(--color-ocean);
+  
 }
 
