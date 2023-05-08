@@ -635,7 +635,7 @@ ul.icon-card-footer {
 .icon-customers-border:focus {
   border-color: var(--color-ocean);
 }
-.icon-customers-border:hover .customer-icon,
-.icon-customers-border:focus .customer-icon {
+.customer-icon:hover,
+.customer-icon:hover {
   fill: var(--color-ocean);
 }
