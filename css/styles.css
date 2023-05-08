@@ -644,5 +644,5 @@ ul.icon-card-footer {
 
 .icon-customers-border:hover .customer-icon,
 .icon-customers-border:focus .customer-icon {
-    fill: var(--color-ocean);
+    
 }
