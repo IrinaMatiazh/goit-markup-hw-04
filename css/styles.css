@@ -330,16 +330,11 @@ a {
 }
 
 .footer-container {
-  display: flex;
-  flex-direction: column;
-  align-items: baseline;
-  margin-right: 120px;
+ 
 }
 
 .social-media {
-  display: flex;
-  flex-direction: column;
-  align-items: start;
+ 
 }
 
 .sub-title-footer {
