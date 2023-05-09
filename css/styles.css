@@ -330,11 +330,13 @@ a {
 }
 
 .footer-container {
- 
+  align-items: baseline;
+  margin-right: 120px;
 }
 
 .social-media {
- 
+
+  align-items: start;
 }
 
 .sub-title-footer {
@@ -438,7 +440,7 @@ ul.icon-card-footer {
 }
 .advantages-text {
   font-size: 16px;
-  margin-bottom: 0;
+  margin-bottom: 8px;
 }
 
 .advantages-section {
