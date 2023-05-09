@@ -180,6 +180,7 @@ a {
 
 .address {
   font-style: normal;
+  margin-left: auto;
 }
 .list-contacts {
   font-family: "Roboto";
@@ -382,6 +383,8 @@ ul.icon-card-footer {
     ),
     url(../images/people-office.jpg);
   max-width: 1440px;
+  height: 600px;
+  margin: 0 auto;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
